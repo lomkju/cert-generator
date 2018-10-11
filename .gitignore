@@ -2,3 +2,4 @@
 *.pem
 *.crt
 ca.srl
+*.csr
